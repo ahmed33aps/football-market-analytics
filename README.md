@@ -2,7 +2,9 @@
 
 An integrated football-analysis project with exploratory analysis, player-value regression, clustering, fuzzy logic and a Streamlit dashboard.
 
-## Contents
+## Project files and local data inputs
+
+Data files listed below are local inputs, not bundled public downloads. See `PUBLIC_DATA_SETUP.md`.
 
 - `Dashboard.py`
 - `EDA&preprocssing_GA.ipynb`
